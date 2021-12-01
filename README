@@ -1,0 +1,12 @@
+### Audio processing of Mp3 and WAV files in Linux using FFMPEG
+
+## This repository contains linux shell scripts for editing audio files in mp3/ wav format.
+
+# equalTime.sh :  Cutting samples of equal time from an audio file.
+# mergeNoise.sh : Add noise with audio file.
+# mp32wav.sh : Convert mp3 to wav format.
+# noiseclean.sh : Remove noise from audio using ffmpeg.
+# renameSeq.sh : Rename audio file names into sequence.
+# speedAdjustWav.sh : Change speed/ tempo of audio files.
+# splitAudioSegment.sh : Split wav files into segments of 3 seconds.
+# volumeAdjustWav.sh : Increase or decrease the volume of audio. 
